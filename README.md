@@ -6,3 +6,12 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 test domain name: https://nextjs-dashboard-three-gold-19.vercel.app
+
+
+install 
+
+npm i
+
+run
+
+npm run dev
